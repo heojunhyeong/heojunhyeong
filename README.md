@@ -10,6 +10,8 @@
   <a href="https://www.instagram.com/megi_x0x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-right:6px;"/></a>
   <a href="https://github.com/heojunhyeong"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin-right:6px;"/></a>
   <a href="https://kyoing.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@%ED%8E%B8%EC%A7%91%EC%9E%90%EA%B5%90%EC%9E%89"><img src="https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/kyoing2/about"><img src="https://img.shields.io/badge/twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
   <a href="https://steamcommunity.com/profiles/76561198101318609"><img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </p>
 
