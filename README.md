@@ -9,11 +9,12 @@
   <a href="mailto:gjwnsgud38@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin-right:6px;"/></a>
   <a href="https://www.instagram.com/megi_x0x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="margin-right:6px;"/></a>
   <a href="https://github.com/heojunhyeong"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" style="margin-right:6px;"/></a>
-  <a href="https://kyoing.tistory.com/"><img src="https://img.shields.io/badge/Blog-00BFFF?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+  <a href="https://kyoing.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/profiles/76561198101318609"><img src="https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </p>
 
 <!-- ====== Tech Stacks ====== -->
-<h3 align="center">⌨️ Backend ⌨️</h3>
+<h3 align="center">⌨️ Stack ⌨️</h3>
 <p align="center" style="margin:2px 0; font-size:0; line-height:0;">
   <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin-right:6px;"/>
@@ -21,7 +22,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h3 align="center">🖥️ Frontend 🖥️</h3>
 <p align="center" style="margin:2px 0; font-size:0; line-height:0;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="margin-right:6px;"/>
