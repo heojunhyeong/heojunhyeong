@@ -17,7 +17,7 @@
 </p>
 
 <!-- ====== Tech Stacks ====== -->
-<h3 align="center">⌨️ Stack ⌨️</h3>
+<h3 align="center">Stack</h3>
 <p align="center" style="margin:2px 0; font-size:0; line-height:0;">
   <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin-right:6px;"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="center">🎞️ VideoEdit 🎞️</h3>
+<h3 align="center">VideoEdit</h3>
 <p align="center" style="margin:2px 0; font-size:0; line-height:0;">
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005b?style=for-the-badge&logo=adobepremierepro&logoColor=white" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-00005b?style=for-the-badge&logo=adobeaftereffects&logoColor=white" style="margin-right:6px;"/>
