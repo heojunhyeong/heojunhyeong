@@ -15,7 +15,7 @@
 <!-- ====== Tech Stacks ====== -->
 <h3 align="center">⌨️ Backend ⌨️</h3>
 <p align="center" style="margin:2px 0; font-size:0; line-height:0;">
-  <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=java&logoColor=white" style="margin-right:6px;"/>
+  <img src="https://img.shields.io/badge/Java-b07219?style=for-the-badge&logo=OpenJDK&logoColor=white" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" style="margin-right:6px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
