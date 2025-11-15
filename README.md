@@ -8,8 +8,8 @@
 <p align="center" style="margin:4px 0;">
   <a href="mailto:gjwnsgud38@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" style="margin-right:6px;" /></a>
   <a href="https://www.instagram.com/megi_x0x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" style="margin-right:6px;" /></a>
-  <a href="https://github.com/megi_x0x"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  
+  <a href="https://github.com/heojunhyeong"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://kyoing.tistory.com/"><img src="https://img.shields.io/badge/Blog-00BFFF?style=flat-square&logo=blogger&logoColor=white" /></a>
 </p>
 
 <!-- ====== 기술 스택 ====== -->
