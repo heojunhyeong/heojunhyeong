@@ -5,7 +5,7 @@
 
 <h3 align="center">Main</h3>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/1a70ec3e-7967-41c2-b777-ee73fc810b3e"/>
+<img src="https://github.com/user-attachments/assets/fef01048-7d86-4c3f-86f1-1f82c7698a1d"/>
 </p>
 
 <h3 align="center">Sub</h3>
