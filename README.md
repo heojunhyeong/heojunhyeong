@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0f0d42f-d08e-435e-a62d-e84d645cb4ba"/>
 </p>
+<h3 align="center">Main</h3>
+<h3 align="center">Sub</h3>
+
 
 <h3 align="center">Kyoing</h3>
 <p align="center" style="margin:4px 0; font-size:0; line-height:0;">
